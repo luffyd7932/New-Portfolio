@@ -12,7 +12,6 @@ const Footer = () => {
         <a href="https://github.com/luffyd7932" target='_blank'><FaGithub/></a>
         <a href="https://www.linkedin.com/in/desai-laxman/" target='_blank'><FaLinkedin/></a>
         <a href='mailTo:laxmandesai7932@gmail.com' target='_blank'><GrMail/></a>
-        {/* <a href="#" target="_blank"><SiLeetcode/></a> */}
       </div>
     </footer>
   )

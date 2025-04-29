@@ -49,7 +49,7 @@ Belagavi, India
             description="2nd Runner-up at Wave 2.0 National Level
 Hackathon at Basaveshwar Engineering
 College, Bagalkote"
-            link="#"
+            link="https://www.linkedin.com/in/desai-laxman"
           />
         </div>
       </div>
