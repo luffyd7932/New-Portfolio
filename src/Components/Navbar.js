@@ -2,7 +2,7 @@ import React from 'react';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import {AiOutlineHome} from "react-icons/ai";
-import {BsPerson, BsCodeSlash, BsTrophy, BsSpeaker, BsFillEnvelopeFill} from "react-icons/bs";
+import {BsPerson, BsCodeSlash, BsTrophy, BsFillEnvelopeFill} from "react-icons/bs";
 import {CgFileDocument} from "react-icons/cg";
 
 

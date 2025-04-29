@@ -38,7 +38,7 @@ export default function AchievementCard({ photo, title, description,link }) {
         {description}
         <br />
   
-        <a style={{display:show}} href={link} target='_blank'>
+        <a style={{display:show}} href={link} target='_blank' rel='noopener noreferrer'>
           <button className='projectbtn'><FaLinkedin/> LinkedIn</button>
         </a>
       </div>
