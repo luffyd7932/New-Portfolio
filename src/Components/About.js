@@ -47,7 +47,7 @@ Besides coding, I have a passion for <b>DSA and Problem Solving.</b>
         <Skills skill='Git' />
         <Skills skill='Github' />
         <Skills skill='Java' />
-          {/* <Skills skill='Jetpack'/> */}
+        <Skills skill='Salesforce'/>
           {/* <Skills skill='Kotlin'/> */}
           <Skills skill='React'/>
         <Skills skill='C' />

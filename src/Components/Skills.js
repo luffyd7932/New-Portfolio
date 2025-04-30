@@ -1,5 +1,7 @@
 import React from 'react'; 
 import { CgCPlusPlus } from "react-icons/cg";
+import { SiSalesforce } from 'react-icons/si';
+
 import {FaJava, FaGitAlt, FaGithub, FaFigma, FaAndroid, FaLinux, FaReact} from "react-icons/fa";
 import {SiMongodb, SiPostman, SiRender, SiSpringboot, SiMysql, SiFirebase, SiKotlin} from "react-icons/si";
 import {GiJetpack} from "react-icons/gi";
@@ -17,6 +19,7 @@ const Skills = ({skill}) => {
       SpringBoot: <SiSpringboot />,
       Mongo: <SiMongodb />,
       Git: <FaGitAlt />,
+      Salesforce: <SiSalesforce />,
       Github: <FaGithub />,
       Figma: <FaFigma />,
       Render: <SiRender />,
