@@ -3,7 +3,7 @@ import Lottie from  "lottie-react";
 import SpaceBoy from "../LottieFiles/homeAnimation1.json";
 import Typed from "./Typed.js";
 import Tilt from 'react-parallax-tilt';
-import Avatar from '../images/image.png';
+import Avatar from '../images/LaxmanDesai.png';
 import {CiCoffeeCup} from "react-icons/ci";
 
 const Home = () => {
