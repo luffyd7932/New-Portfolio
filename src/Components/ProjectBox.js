@@ -14,7 +14,15 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
     CyberGuard: {
       desc: "An educational platform to raise awareness about cyber-attacks and preventive measures. Features include email breach checks, password security analysis, SMS detection, and interactive challenges for users.",
       github: "https://github.com/luffyd7932"
-    }
+    },
+    SpringChat: {
+        desc: "SpringChat is a real-time group chat platform built with Spring Boot and WebSockets. It features secure multi-user messaging with user authentication, session management, and a clean HTML/CSS frontend for seamless communication.",
+        github: "https://github.com/luffyd7932/Group-Chat-Web-Application"
+      },
+    QuizEase: {
+        desc: "QuizEase is a smart quiz management system powered by Spring Boot and PostgreSQL. It supports secure role-based access for Admins and Students, allowing quiz creation, participation, and automatic scoring via RESTful APIs with robust authentication.",
+        github: "https://github.com/luffyd7932/QuizAppSB"
+      }
   };
 
   const data = projectData[projectName];
