@@ -12,12 +12,19 @@ const About = () => {
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
 
           <p>
-            I have also participated in various Hackathons, including: - Winning <b>CodeFiesta 5.0</b> at SKSVMACET Laxmeshwar for developing a smart meal planner. - Runner's Up at <b>Hack to Future</b>, a 24-hour hackathon, for effectively gamifying Cyber Security Awareness.<br></br> 
-            I enjoy creating original projects and backends. You can check out some of my work in the projects section.<br></br>
-
-            I am <b>open</b> to new collaborations or opportunities where I can contribute and grow. Feel free to connect with me—links are in the footer.<br></br>
-
-            Besides coding, I have a passion for <b>DSA and Problem Solving.</b>
+            I have participated in multiple hackathons and enjoyed working in fast-paced team environments.
+            I won <b>CodeFiesta 5.0</b> at SKSVMACET, Laxmeshwar, where my team developed a smart meal planner.
+            I was also the <b>Runner-up</b> at <b>Hack to Future</b>, a 24-hour hackathon, for building a solution
+            that gamified Cyber Security awareness.
+            <br/><br/>
+            I enjoy building original projects, especially backend systems and APIs.
+            You can explore some of my work in the projects section.
+            <br/><br/>
+            I am <b>open</b> to new opportunities and collaborations where I can learn, contribute,
+            and grow as an engineer. Feel free to connect with me — you can find my links in the footer.
+            <br/><br/>
+            Apart from development, I also have a strong interest in <b>Data Structures, Algorithms,
+            and problem solving</b>.
           </p>
         </div>
 
