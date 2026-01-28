@@ -45,7 +45,7 @@ const Home = () => {
               I enjoy designing APIs, working with databases, and building scalable backend solutions.
               I like learning how real production systems work and solving practical engineering problems.
               <br/><br/>
-              And yes — I run on <b>coffee</b> ☕
+              And yes, I run on <b>coffee</b> <CiCoffeeCup style={{scale: "1.5", rotate: "15deg"}}/>
             </p>
         </div>
           <div style={{display:"flex",justifyContent:"center",alignItems:"center"}}>
