@@ -29,17 +29,23 @@ const Home = () => {
         <div className='AboutText'>
           <h1 className='AboutTextHeading'>Brief <b>Introduction</b></h1>
             <p>
-                My name is <b>Laxman Desai</b> and I live in Khanapur, Karnataka .
-                About my education, I have done my PUC from RL PU college of science Belagavi where I have scored 94%
-                in 12th std and Currently I’m pursuing the Bachelor’s degree in <b>Information science and Engg. </b>
-                at KLS gogte institute of technology Belagavi , where I have maintained a CGPA of 9.03.
-                <br/><br/>
-                In terms of skills , I have good knowledge of programming languages
-                like <b>Java</b>, <b>C</b> and <b>C++</b>.
-                Additionally I have worked on frameworks like <b>Spring boot</b>, <b>Node Js. </b>, <b>Flask
-                </b> and <b>React</b>.
-                Addition to this I love building my own backends and websites.. <br/><br/>
-                Also, I love <b>coffee</b> <CiCoffeeCup style={{scale: "1.5", rotate: "15deg"}}/>
+              Hi, I’m <b>Laxman Desai</b> from Khanapur, Karnataka.
+              I’m currently pursuing my Bachelor’s degree in <b>Information Science and Engineering</b> 
+              at <b>KLS Gogte Institute of Technology, Belagavi</b>, with a CGPA of <b>9.03</b>.
+              I completed my PUC from <b>RL PU College of Science, Belagavi</b>, where I scored <b>94%</b>.
+              <br/><br/>
+              I’m currently working as a <b>Software Developer Intern</b> at <b>Falabella India</b>, 
+              where I’m gaining hands-on experience in building and maintaining backend systems.
+              <br/><br/>
+              I have hands-on experience in building backend systems and web applications.
+              My core programming skills include <b>Java</b>, <b>C</b>, and <b>C++</b>.
+              I’ve worked with frameworks and technologies such as <b>Spring Boot</b>, <b>Node.js</b>, 
+              <b>Flask</b>, and <b>React</b>.
+              <br/><br/>
+              I enjoy designing APIs, working with databases, and building scalable backend solutions.
+              I like learning how real production systems work and solving practical engineering problems.
+              <br/><br/>
+              And yes — I run on <b>coffee</b> ☕
             </p>
         </div>
           <div style={{display:"flex",justifyContent:"center",alignItems:"center"}}>
